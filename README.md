@@ -27,7 +27,7 @@ No third-party dependencies required.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/tcp-uppercase-demo.git
+git clone https://github.com/ahmad-rami-bit/tcp-uppercase-demo.git
 cd tcp-uppercase-demo
 ```
 
